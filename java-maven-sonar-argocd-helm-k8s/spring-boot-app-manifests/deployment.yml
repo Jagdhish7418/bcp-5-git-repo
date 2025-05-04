@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: spring-boot-app
-        image: jagdhish/bcp5:replaceImageTag
+        image: jagdhish/bcp5:6
         ports:
         - containerPort: 8080
